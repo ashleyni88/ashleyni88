@@ -22,7 +22,7 @@
 | Project | What it is | Built with |
 |---|---|---|
 | [**Collectora**](https://github.com/mahirdashraf/collectora) | 1st place, GT iOS Bootcamp: full-stack iOS blind-box collecting game where you win coins in minigames, unbox characters, and earn passively offline | Swift · SwiftUI |
-| [**ChinaHouse2**](https://github.com/ashleyni88/ChinaHouse2) | Official website for a local Chinese restaurant, live and serving real customers | Python · JavaScript |
+| [**ChinaHouse2**](https://github.com/ashleyni88/ChinaHouse2) | Official website for a local Chinese restaurant, live and serving real customers | React · Tailwind CSS |
 | [**moviefinder**](https://github.com/ashleyni88/moviefinder) | AI-powered movie search across ~1M films and shows, using vector search and Gemini · Hacklytics 2026 | Python |
 
 ### As of right now:
