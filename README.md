@@ -11,23 +11,23 @@
 
 ---
 
-### 🛠️ Tech I use
+### Tech I use
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,js,swift,html,css,react,django,git&theme=dark" />
 </p>
 
-### 🚀 Featured projects
+### Featured projects
 
 | Project | What it is | Built with |
 |---|---|---|
-| [**Collectora**](https://github.com/mahirdashraf/collectora) | 🏆 1st place, GT iOS Bootcamp: full-stack iOS blind-box collecting game where you win coins in minigames, unbox characters, and earn passively offline | Swift · SwiftUI |
+| [**Collectora**](https://github.com/mahirdashraf/collectora) | 1st place, GT iOS Bootcamp: full-stack iOS blind-box collecting game where you win coins in minigames, unbox characters, and earn passively offline | Swift · SwiftUI |
 | [**ChinaHouse2**](https://github.com/ashleyni88/ChinaHouse2) | Official website for a local Chinese restaurant, live and serving real customers | Python · JavaScript |
 | [**moviefinder**](https://github.com/ashleyni88/moviefinder) | AI-powered movie search across ~1M films and shows, using vector search and Gemini · Hacklytics 2026 | Python |
 
-### 🌱 Right now
+### As of right now:
 
-- 🔍 Exploring different areas of tech through hackathons, bootcamps, and real-world projects to find what I'm most passionate about
-- 💼 Open to internships and professional development opportunities, so feel free to reach out!
+- Exploring different areas of tech through hackathons, bootcamps, and real-world projects to find what I'm most passionate about
+- Open to internships and professional development opportunities, so feel free to reach out!
 
 ---
